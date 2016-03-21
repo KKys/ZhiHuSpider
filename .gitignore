@@ -1,3 +1,11 @@
+# Eclipse ignore
 .settings/*
 .project
 .classpath
+
+# Intellij ignore
+.idea
+*.iml
+
+# Project ignore
+bin/*
